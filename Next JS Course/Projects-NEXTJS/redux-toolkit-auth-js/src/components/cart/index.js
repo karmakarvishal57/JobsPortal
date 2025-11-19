@@ -56,7 +56,7 @@ return <div className="bg-white">
       </tbody>  
       </table>
       <div className="max-w-xl ml-auto">
-      <p className="text-lg font-bold">Total = <span>{totalAmount}</span></p>
+      <p className="text-lg font-bold">Total = <span>`${totalAmount}`</span></p>
       </div>
 </div>
 
